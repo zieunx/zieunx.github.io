@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on zieunx&#39;s space</title>
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on zieunx&#39;s space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr-ko</language>
+    <managingEditor>wldms_1217@naver.com (zieunx)</managingEditor>
+    <webMaster>wldms_1217@naver.com (zieunx)</webMaster>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>오브젝트, 코드로 이해하는 객체지향 설계</title>
+      <link>https://example.com/project/a_product/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <author>wldms_1217@naver.com (zieunx)</author>
+      <guid>https://example.com/project/a_product/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -21,5 +21,16 @@
         </description>
       </item>
     
+      <item>
+        <title>Resume</title>
+        <link>https://example.com/resume/</link>
+        <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/resume/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
   </channel>
 </rss>
